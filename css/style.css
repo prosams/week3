@@ -1,0 +1,38 @@
+
+img {
+  width:550px;
+  height:auto;
+}
+
+body{
+  background: maroon;
+  color: white;
+  size: 200%;
+  margin:5%;
+}
+
+p{
+  font-family: "Courier New", Courier, monospace;
+}
+
+a:link {
+color: #2393EA;
+}
+
+a:hover {
+color: #2393EA;
+}
+
+a:visited {
+color: #999999;
+}
+
+a:active {
+  background-color: yellow;
+}
+
+nav a.current {
+  color: #9623EA;
+  text-transform: uppercase;
+  background-color: pink
+}
